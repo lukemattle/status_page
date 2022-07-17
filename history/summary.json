@@ -4,18 +4,20 @@
     "url": "https://mattle.uk",
     "icon": "https://favicons.githubusercontent.com/mattle.uk",
     "slug": "mattle-uk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 163,
     "timeDay": 214,
     "timeWeek": 159,
     "timeMonth": 163,
     "timeYear": 163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 1
+    }
   },
   {
     "name": "MC Server Java",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-17": 84,
+      "2022-07-17": 614,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
